@@ -1,4 +1,4 @@
-# Perfil
+# perfil
 # 💻 Edigelson Nascimento | Desenvolvedor Front-End
 
 [![Portfólio](https://img.shields.io/badge/🌐-Portfólio-000?style=flat-square)](https://edigelson.pages.dev)
@@ -70,7 +70,7 @@ Uno conhecimento técnico e visão estratégica para criar soluções digitais *
 
 📩 **E-mail:** [contato@edigelson.pw](mailto:contato@edigelson.pw)  
 💼 **LinkedIn:** [linkedin.com/in/edigelson-nascimento](https://linkedin.com/in/edigelson-nascimento)  
-🌐 **Portfólio:** [edigelson.pages.dev](https://edigelson.pages.dev)
+🌐 **Portfólio:** [edigelson.pw](https://edigelson.pw)
 
 ---
 
