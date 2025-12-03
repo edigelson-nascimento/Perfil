@@ -1,12 +1,3 @@
-# 💻 Edigelson Nascimento | Desenvolvedor Front-End
-
-[![Portfólio](https://img.shields.io/badge/🌐-Portfólio-000?style=flat-square)](https://edigelson.pages.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/edigelson-nascimento)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/edigelson-nascimento)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contato@edigelson.pw)
-
----
-
 ## 👨‍💻 Sobre mim
 
 Sou **Desenvolvedor Front-End**, com experiência em **HTML**, **CSS**, **JavaScript** e **gestão de tráfego** (Google Ads e Meta Ads).  
